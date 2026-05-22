@@ -198,13 +198,11 @@ Enter admin credentials to access dashboard.
 
 # 👩‍💻 Author
 
-**Akhila Bodduri**
+**Vamsi Bammidi**
 Full Stack Web Development Intern
 Future Interns
 
 
-
-# ⭐ Acknowledgement
 
 This project was developed as part of the **Future Interns Internship – Task 02** to gain hands-on experience in full stack web development.
 
